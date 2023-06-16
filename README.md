@@ -1,0 +1,2 @@
+# DJForiegnkey
+OneToOne,OneToMany,ManyToMany
